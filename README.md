@@ -1,2 +1,2 @@
-# working-with-branches
+# working with branches
 exploring how branches are utilized
