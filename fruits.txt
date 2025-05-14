@@ -3,3 +3,6 @@ Apple
 Raspberry
 Melon
 Grapes
+Strawberries
+Blackberries
+Peaches
