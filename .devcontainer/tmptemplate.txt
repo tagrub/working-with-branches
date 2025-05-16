@@ -1,0 +1,12 @@
+{
+  "name": "My Codespace Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu", // Replace with your base image if different
+  "features": {},
+  "settings": {
+    // Add VS Code settings here
+  },
+  "extensions": [
+    // List your VS Code extensions here, e.g. "ms-python.python"
+  ],
+  "postCreateCommand": "echo 'Customize with setup scripts if needed'"
+}
